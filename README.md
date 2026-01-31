@@ -1,6 +1,8 @@
 # DeTeCtive-jittor-
 这是关于论文《DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning》的jittor代码复现仓库,本实验的所需数据集见此仓库的master分支
 本仓库主要结构如下：
+```text
+.
 ├── script/                # 自动化运行脚本
 │   ├── gen_database.sh    # 生成数据库批处理脚本
 │   ├── infer.sh           # 推理批处理脚本
