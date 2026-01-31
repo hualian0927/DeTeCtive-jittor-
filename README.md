@@ -1,0 +1,2 @@
+DeTeCtive-jittor Datasets
+本仓库包含了用于 DeTeCtive 实验复现的数据集文件，分为Turingbench.zip和OUTFOX.zip两个数据集文件，本次实验主要采用前者，这些数据集主要用于评估和训练针jittor实验所复现的代码训练和检测部分。
