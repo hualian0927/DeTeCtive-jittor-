@@ -26,11 +26,14 @@
 ## 5.实验记录
 ### pytorch版训练loss
 <img width="616" height="214" alt="image" src="https://github.com/user-attachments/assets/32309c9f-e248-4be1-ba21-5e6ece0012b7" />
+
 ### jittor版训练loss
 <img width="616" height="214" alt="image" src="https://github.com/user-attachments/assets/90da4971-68d1-4a25-87af-f18e01a4c94c" />
+
 ### pytorch版Acc（上）和F1结果（下）
 <img width="280" height="169" alt="image" src="https://github.com/user-attachments/assets/a70a948a-f962-4516-88a8-8ccd2248aa44" />
 <img width="294" height="173" alt="image" src="https://github.com/user-attachments/assets/82d643ad-79e9-4a22-a307-803729af7093" />
+
 
 ### jittor版版Acc（上）和F1结果（下）
 <img width="672" height="215" alt="image" src="https://github.com/user-attachments/assets/23d6b5b4-5b98-4d4f-a6e5-f2c262a1c95f" />
