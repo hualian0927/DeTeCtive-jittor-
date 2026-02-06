@@ -25,7 +25,8 @@
 
 ## 5.实验记录
 ### pytorch版训练loss
-<img width="616" height="214" alt="image" src="https://github.com/user-attachments/assets/32309c9f-e248-4be1-ba21-5e6ece0012b7" />
+<img width="665" height="155" alt="image" src="https://github.com/user-attachments/assets/e3dfc818-8c96-4e5d-92d0-5af9385b2d52" />
+
 
 ### jittor版训练loss
 <img width="616" height="214" alt="image" src="https://github.com/user-attachments/assets/90da4971-68d1-4a25-87af-f18e01a4c94c" />
@@ -91,6 +92,8 @@
 ### （2）分支说明: 如果在主界面找不到数据集，请手动将分支切换至 master 下载对应的压缩包文件。
 
 ### （3）操作流程：按照要求和文件框架配置好环境和数据集——进入文件根目录——在终端输入"./run_a100"——等待程序运行
+
+### （4）本次复现使用过a100和a800两张显卡，二者均能满足环境要求，如果使用a100训练时可以手动调整run_a100这一文件中的batchsize，可减少训练时间；若使用a800则直接按操作运行即可。
 
 ## 9.联系
 ### 若您在复现中遇见问题或有优化与思考想讨论一下，可邮箱联系我2412351@mail.nankai.edu.cn
